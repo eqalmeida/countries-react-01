@@ -1,3 +1,9 @@
+# Countries - react
+
+This project is part of my learning process of React frontend library.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
